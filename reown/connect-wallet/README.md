@@ -16,7 +16,7 @@ To set up this project, follow these steps:
 
 1. Clone the forked sdk-implementation repository:
    ```
-   git clone https://github.com/your-username/sdk-implementation.git
+   git clone https://github.com/easydweb/sdk-implementation.git
    cd sdk-implementation/reown/connect-wallet
    ```
 
